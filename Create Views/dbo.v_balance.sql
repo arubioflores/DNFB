@@ -1,6 +1,6 @@
 /*****************************************************************************************************************
-NAME:    dbo.v_accounts_per_customer_per_year.sql
-PURPOSE: Create the dbo.v_accounts_per_customer_per_year view
+NAME:    dbo.v_balance.sql
+PURPOSE: Create the dbo.v_balance view
 
 SUPPORT: Alex Rubio 
          rubioalejandro1114@gmail.com
